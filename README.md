@@ -1,2 +1,2 @@
 # HTML_Assignment
-his repository contains solutions and code for  HTML assignment.
+This repository contains solutions and code for  HTML assignment.
